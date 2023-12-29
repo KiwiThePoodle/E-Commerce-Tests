@@ -1,3 +1,10 @@
+# Software Testing and Debugging Project
+
+This is a repository that I copied over from: https://github.com/jaygajera17/E-commerce-project-springBoot. It is an open-source project and I added unit tests as well as GUI tests.
+
+Below is the open-source project README:
+
+
 # E-commerce_website-in-java
 
 
